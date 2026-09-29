@@ -1,0 +1,12 @@
+Sample Chapters 1 and 2 style notes from /home/ubuntu/upload/Chapter-1and2Smaple.pdf:
+
+1. Chapter pages begin with centered uppercase heading like 'CHAPTER 1' followed by centered uppercase chapter title like 'EXECUTIVE SUMMARY'.
+2. Body text is formal academic prose with justified alignment and generous line spacing.
+3. Section numbering uses formats such as 1.1, 1.2, 2.1, 2.2, etc.
+4. Chapter 1 contains an introductory overview paragraph, followed by 'Learning Objectives' and 'Outcomes Achieved'.
+5. Chapter 2 contains 'Introduction of the Organization', 'Vision, Mission, and Values', 'Policy of the Organization in Relation to the Intern Role', 'Organizational Structure', and 'Roles and Responsibilities of the Employees Guiding the Intern'.
+6. Bullet points are used for objectives, outcomes, policies, and role descriptions, with bold labels for key terms in some lists.
+7. Typography resembles Times New Roman with clean academic formatting.
+8. Visual style includes page border and watermark-like background, but the critical requirements for reproduction are chapter heading hierarchy, formal paragraph structure, and section arrangement.
+
+Source: /home/ubuntu/upload/Chapter-1and2Smaple.pdf
